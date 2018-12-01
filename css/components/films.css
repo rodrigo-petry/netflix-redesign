@@ -5,12 +5,12 @@
   margin-right: var(--spacing-normal);
 }
 
-.films a:nth-last-child(6) {
+.films a:nth-last-child(5) {
   color: var(--color-zero);
   font-size: var(--sub-active-size);
 }
 
-.films a:nth-last-child(6) {
+.films a:nth-last-child(5) {
   color: var(--color-zero);
 }
 
