@@ -1,0 +1,24 @@
+.films a {
+  color: var(--title-color);
+  text-decoration: none;
+  font-size: var(--sub-title-size);
+  margin-right: var(--spacing-normal);
+}
+
+.films a:nth-last-child(6) {
+  color: var(--color-zero);
+  font-size: var(--sub-active-size);
+}
+
+.films a:nth-last-child(6) {
+  color: var(--color-zero);
+}
+
+.films {
+  width: 100%;
+  display: flex;
+  margin-top: var(--spacing-more-big);
+  justify-content: left;
+
+  font-family: 'Avenir-Medium', sans-serif;
+}

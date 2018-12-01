@@ -1,0 +1,20 @@
+.main-series {
+  background-image: url(../../img/71b1c0cd37c6a969e46b578d015a159154283f70.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.stars {
+  margin-top: var(--spacing-normal);
+  margin-bottom: var(--spacing-normal);
+  font-size: var(--star-size);
+}
+
+.stars i {
+  color: var(--star-color);
+  margin-right: var(--spacing-minimal);
+}
+
+.stars i:nth-last-child(1) {
+  color: var(--star-color-none);
+}

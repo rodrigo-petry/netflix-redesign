@@ -1,0 +1,17 @@
+.main-texts {
+  padding-top: var(--spacing-more-big);
+  width: 38%;
+
+  font-family: 'Avenir-Medium', sans-serif;
+}
+
+.main-texts h1 {
+  color: var(--text-color);
+  font-size: var(--title-size);
+}
+
+.main-texts p {
+  font-size: var(--text-size);
+  color: var(--text-color);
+  line-height: var(--line-height);
+}

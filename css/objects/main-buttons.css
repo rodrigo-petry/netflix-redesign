@@ -1,0 +1,46 @@
+.main-buttons button {
+  padding-top: var(--spacing-button-height);
+  padding-bottom: var(--spacing-button-height);
+  width: 12%;
+  margin-top: var(--spacing-less-big);
+}
+
+.watch-now {
+  background-color: var(--color-first);
+  border: var(--border) solid var(--color-none);
+  color: var(--text-color);
+  text-transform: uppercase;
+  border-radius: var(--radius);
+
+  transition: all 200ms linear;
+}
+
+.watch-now:hover {
+  background-color: var(--color-none);
+  border: var(--border) solid var(--color-first);
+  color: var(--color-first);
+}
+
+.watch-now i {
+  margin-right: var(--spacing-minimal);
+}
+
+.favorite {
+  background-color: var(--color-none);
+  color: var(--text-color);
+  text-transform: uppercase;
+  border-radius: var(--radius);
+  border: var(--border) solid var(--color-zero);
+
+  transition: all 200ms linear;
+}
+
+.favorite:hover {
+  background-color: var(--color-zero);
+  color: var(--color-negative);
+  border: var(--border) solid var(--color-none);
+}
+
+.favorite i {
+  margin-right: var(--spacing-minimal);
+}

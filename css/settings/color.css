@@ -1,0 +1,14 @@
+:root {
+  --color-first: #d81f26;
+  --color-none: transparent;
+  --color-zero: #fff;
+  --color-negative: #262626;
+  --color-black: #000;
+
+  --text-color: #fff;
+  --title-color: #9f9f9f;
+
+  --star-color: #ffc850;
+  --star-color-none: #3e3e3e;
+  --button-radius: 13px;
+}

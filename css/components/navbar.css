@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  background-color: var(--color-none);
+  height: var(--navbar-size);
+  position: absolute;
+  width: 100%;
+}
+
+.navbar-logo {
+  margin-top: var(--spacing-big);
+}
+
+.client-image {
+  margin-top: var(--spacing-more-big);
+  right: var(--spacing-client-img);
+  position: absolute;
+}
+
+.search {
+  margin-top: var(--spacing-big);
+  margin-left: auto;
+}
+
+.search i {
+  color: var(--color-first);
+  font-size: var(--sub-title-size);
+}

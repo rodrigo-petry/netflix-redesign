@@ -1,0 +1,14 @@
+.films-list {
+  background-color: var(--color-black);
+  padding-bottom: var(--spacing-normal);
+}
+
+.films-list img {
+  padding-top: var(--spacing-small);
+  
+  transition: all 120ms linear;
+}
+
+.films-list img:hover {
+  transform: scale(1.2);
+}

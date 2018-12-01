@@ -1,0 +1,26 @@
+:root {
+  --title-size: 40px;
+  --sub-title-size: 22px;
+  --sub-active-size: 24px;
+  --text-size: 15px;
+  --star-size: 19px;
+
+  --navbar-size: 120px;
+
+  --spacing-more-big: 90px;
+  --spacing-big: 70px;
+  --spacing-less-big: 40px;
+  --spacing-normal: 30px;
+  --spacing-small: 15px;
+  --spacing-minimal: 6px;
+
+  --spacing-client-img: 120px;
+
+  --spacing-button: 35px;
+  --spacing-button-height: 10px;
+
+  --line-height: 20px;
+
+  --border: 2px;
+  --radius: 13px;
+}
